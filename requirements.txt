@@ -1,0 +1,6 @@
+requests>=2.32.3
+python-dateutil>=2.9.0
+pydantic>=2.9.2
+markdownify>=0.13.1
+markdown>=3.6            # ← Markdown→HTML 変換
+openai>=1.53.0         # ← 要約に使う場合のみ。今回は未使用
